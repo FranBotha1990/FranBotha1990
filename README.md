@@ -6,17 +6,24 @@ I am a seasoned IT professional with over a decade of experience in IT managemen
 
 In addition to my professional expertise, I have a foundation in programming (Python, C#, Java), gained through my academic background and personal initiatives. While not a professional software developer, I am proficient in HTML, CSS, and basic JavaScript, having taught myself these skills out of a passion for software development. Currently, I am learning how to proficiently use NuxtJS and VueJS to further expand my skills, leveraging my well-rounded knowledge of databases and database systems to empower myself in progressive web application development. This fascination drives me to continuously expand my knowledge and take on small coding projects. I am dedicated to further enhancing my programming abilities, with the goal of creating meaningful solutions that can someday positively impact users. This eagerness to learn and innovate complements my IT management capabilities, allowing me to bring a well-rounded approach to every project I undertake.
 
-<!--
-**FranBotha1990/FranBotha1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Statistics
+[![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranBotha1990&show_icons=true&theme=dark)](https://github.com/FranBotha1990/github-readme-stats)
 
-Here are some ideas to get you started:
+## Most Used Languages
+![Fran's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franbotha1990&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning ...
+- NuxtJS
+- VueJS
+- Advanced JavaScript
+
+## 🔭 I’m currently working on...
+- Upskilling in software development
+- Improving my digital CV
+- Building a personal budget application
+- Building a Rugby team touring application
+
+## ⚡ Fun facts about me ...
+- In 2011 I left my first good job to pursue a life in Martial Arts (Kung Fu), but it did not pay.
+- I travelled outside South Africa for the first time in 2017, and have since been to 12 countries.
+- I am an enthusiastic PC gamer. I love RGPs and own a few board games (Frosthaven being number 1).
