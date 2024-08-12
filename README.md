@@ -12,6 +12,9 @@ In addition to my professional expertise, I have a foundation in programming (Py
 ## Most Used Languages
 ![Fran's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franbotha1990&theme=dark)
 
+## Roadmap Statistics
+[![roadmap.sh](https://roadmap.sh/card/wide/66b9b8d9b64402e05292a5de?variant=dark)](https://roadmap.sh)
+
 ## 🌱 I’m currently learning ...
 - NuxtJS
 - VueJS
